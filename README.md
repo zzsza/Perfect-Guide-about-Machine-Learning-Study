@@ -24,21 +24,22 @@
 	- [LightGBM Paper](https://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree.pdf)
 	- 논문 이해가 잘 안되는 경우 부가 자료도 함께 읽어보며 학습
 
-	<details><summary>XGBoost, LightGBM 부가 자료</summary>
-	<p>
+<details><summary>XGBoost, LightGBM 부가 자료</summary>
+<p>
 	
-	- [XGBoost 관련 글](https://brunch.co.kr/@snobberys/137)
-	- [LightGBM 번역 글](https://aldente0630.github.io/data-science/2018/06/29/highly-efficient-gbdt.html)
-	- [XGBoost, LightGBM 파라미터 설명 글](https://sites.google.com/view/lauraepp/parameters)
-	- [Introduction to Boosted Trees PPT](https://homes.cs.washington.edu/~tqchen/pdf/BoostedTree.pdf?fbclid=IwAR0gGntURg4U24l6Fit-DLpVNBb_BtgMjzlSg3NYdb8jI44JLHLH-0Zluis)
-	- [CatBoost vs LightGBM vs XGBoost 비교 글](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db)
+- [XGBoost 관련 글](https://brunch.co.kr/@snobberys/137)
+- [LightGBM 번역 글](https://aldente0630.github.io/data-science/2018/06/29/highly-efficient-gbdt.html)
+- [XGBoost, LightGBM 파라미터 설명 글](https://sites.google.com/view/lauraepp/parameters)
+- [Introduction to Boosted Trees PPT](https://homes.cs.washington.edu/~tqchen/pdf/BoostedTree.pdf?fbclid=IwAR0gGntURg4U24l6Fit-DLpVNBb_BtgMjzlSg3NYdb8jI44JLHLH-0Zluis)
+- [CatBoost vs LightGBM vs XGBoost 비교 글](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db)
 	
-	</p>
-	</details> 
+</p>
+</details> 
 
 - 코드 구현
 	- 2가지 방식으로 진행할 예정 
 	- 1) 2명이 하나의 노트북을 두고 Pair Programming
+		- (의견 받습니다. 2명 팀으로 각자 노트북에서 진행?) 
 	- 2) 캐글 커널 필사 (따라 치기) => 이것도 짝꿍은 있되, 각자 노트북으로 진행
 
 ## 책의 목차
