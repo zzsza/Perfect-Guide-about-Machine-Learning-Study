@@ -23,6 +23,10 @@
 	- [XGBoost Paper](https://arxiv.org/abs/1603.02754)
 	- [LightGBM Paper](https://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree.pdf)
 	- 논문 이해가 잘 안되는 경우 부가 자료도 함께 읽어보며 학습
+        - (아이디어) 논문을 바로 읽으면 어려울 수 있으므로, API Document를 본 후 진행하는 방법
+        - 이 경우, 공식 Document를 (일부분만) 번역해서 Socar Repo에 공유하면 어떨까? => 스터디 + 대외적 홍보 효과
+        - [XGBoost Document](https://xgboost.readthedocs.io/en/latest/index.html)
+        - [LightGBM Document](https://lightgbm.readthedocs.io/en/latest/)
 
 <details><summary>XGBoost, LightGBM 부가 자료</summary>
 <p>
