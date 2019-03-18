@@ -1,6 +1,9 @@
 
 ## Pandas Exercise
 - Numpy는 Low Level API니 처음엔 Pandas만 진행
+- 책 Numpy, Pandas 코드 따라치기
+
+## 추가 학습
 - Kaggle 회원가입, 로그인
 - [Kaggle Micro Courses : Pandas](https://www.kaggle.com/learn/pandas) 입장
 	- `1. Creating, Reading and Writing`
