@@ -1,9 +1,6 @@
 
 ## Pandas Exercise
 - Numpy는 Low Level API니 처음엔 Pandas만 진행
-- 책 Numpy, Pandas 코드 따라치기
-
-## 추가 학습
 - Kaggle 회원가입, 로그인
 - [Kaggle Micro Courses : Pandas](https://www.kaggle.com/learn/pandas) 입장
 	- `1. Creating, Reading and Writing`
@@ -17,10 +14,6 @@
 - `q1.hint()`를 하면 힌트를 알려줌
 - `q1.solution()`을 하면 정답을 알려줌
 
-
-## Scikit Learn Exercise
-- [Kaggle Micro Courses : machine-learning](https://www.kaggle.com/learn/machine-learning)
-- `5. Exercise: Your First Machine Learning Model`
 
 
 ### 추가로 더 원할 경우
