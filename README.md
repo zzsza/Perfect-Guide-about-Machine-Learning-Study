@@ -88,7 +88,7 @@
 	```
 	
 ### 스터디 기록 및 회고
-- 19.03.25
+- 19.03.18
 	- 1장. 파이썬 기반의 머신러닝과 생태계 이해(~p.86) 읽음
 	- Kaggle 실습 진행
 	- 저녁 식사를 미리 고민할 것(맥도날드가 너무 늦게 옴)
@@ -97,6 +97,20 @@
 	- 어디까지 진행할지 언급
 	- 어쩌다 보니 스터디 3시간 진행
 
+- 19.03.25
+	- 스쿨푸드 먹음
+	- 2장 전체 읽음
+	- sklearn
+	- train_test_split
+	- Estimator - fit(), predict()
+	- cross_val_score() 
+	- KFold, StraritifiedKFold
+	- GridSearch()
+	- Ont Hot Encoding / Label Encoding Scaler
+	- 피드백! 
+		- 실습 형태 : 3명 중 2명이 **개인**을 선호
+		- 복습 자료 : 3명 중 2명이 **복습 자료는 부담스럽다**
+		
 
 ### Reference
 - 김창준님의 [스터디 모임 방법 몇 가지](http://agile.egloos.com/5830026)
