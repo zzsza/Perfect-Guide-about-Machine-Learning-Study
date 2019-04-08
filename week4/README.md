@@ -23,8 +23,10 @@
 - [DecisionTreeImplementation](https://github.com/hmahajan99/DecisionTreeImplementation/blob/master/Decision%20Tree%20Implementation.ipynb) : 완전 쌩으로 구현! 깔끔하진 않지만 참고할만 함
 - 박준영님의 [DecisionTree와 RandomForest에 대하여](https://swalloow.github.io/decison-randomforest)
 - [데이터 사이언스 스쿨 - 의사 결정 나무](https://datascienceschool.net/view-notebook/16c28c8c192147bfb3d4059474209e0a/)
+- [Decision Tree (CART) Algorithm in Machine Learning](https://medium.com/machine-learning-researcher/decision-tree-algorithm-in-machine-learning-248fb7de819e) : Decision Tree 알고리즘 내부를 예시와 함께 알려주는 링크
+- [Decision Tree regression](https://www.saedsayad.com/decision_tree_reg.htm)
 
 ### Random Forest 참고 자료
-- 이기창님의 [Randome Forest, Rotation Forest](https://ratsgo.github.io/machine%20learning/2017/03/17/treeensemble/)
+- 이기창님의 [Random Forest, Rotation Forest](https://ratsgo.github.io/machine%20learning/2017/03/17/treeensemble/)
 - [위키피디아](https://ko.wikipedia.org/wiki/%EB%9E%9C%EB%8D%A4_%ED%8F%AC%EB%A0%88%EC%8A%A4%ED%8A%B8)
 - [Random forest in python (Kaggle)](https://www.kaggle.com/raviolli77/random-forest-in-python)
