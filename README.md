@@ -111,7 +111,17 @@
 		- 실습 형태 : 3명 중 2명이 **개인**을 선호
 		- 복습 자료 : 3명 중 2명이 **복습 자료는 부담스럽다**
 		
-
+- 19.04.01
+	- 피자스쿨 먹음
+	- Metric에 대한 이해
+	- 각 Metric을 왜 사용하는지 이해하기 
+- 19.04.08
+	- 햄버거 먹음
+	- Decision Tree
+	- 정리하며 읽기
+	- sklearn tree 구현체 파악해보기
+	- Regression 문제일 땐 어떻게 information gain을 측정할까? => Standard Deviation : [참고 자료](https://www.saedsayad.com/decision_tree_reg.htm)
+	
 ### Reference
 - 김창준님의 [스터디 모임 방법 몇 가지](http://agile.egloos.com/5830026)
 - [파이썬 머신러닝 완벽가이드 예제 코드 Github](https://github.com/wikibook/ml-definitive-guide)
