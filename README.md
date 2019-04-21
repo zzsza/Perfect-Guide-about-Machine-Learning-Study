@@ -121,7 +121,11 @@
 	- 정리하며 읽기
 	- sklearn tree 구현체 파악해보기
 	- Regression 문제일 땐 어떻게 information gain을 측정할까? => Standard Deviation : [참고 자료](https://www.saedsayad.com/decision_tree_reg.htm)
-	
+- 19.04.15
+	- 제가 아파서 스터디 참여 못했 ^_ㅠ
+	- 256쪽 분류 실습 전까지 읽음
+	- 디테일한 내용에 대해 논의 했지만 답은 못 찾은? 경우가 있었던 것 같음
+		
 ### Reference
 - 김창준님의 [스터디 모임 방법 몇 가지](http://agile.egloos.com/5830026)
 - [파이썬 머신러닝 완벽가이드 예제 코드 Github](https://github.com/wikibook/ml-definitive-guide)
