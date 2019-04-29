@@ -1,5 +1,5 @@
 ## 오늘의 목표
-- 4장 [ LightGBM, Stacking, Imbalanced Data, Stacking ]
+- 4장 [ LightGBM, Stacking, Imbalanced Data ]
 	- 1) LightGBM 공식 문서
 		- [LightGBM Document](https://lightgbm.readthedocs.io/en/latest/)
 	- 2) 참고 자료 읽기 (번역본)
